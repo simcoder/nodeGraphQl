@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should return an array of customers 1`] = `
+Array [
+  Object {
+    "email": "rick.nelson@example.com",
+    "gender": "male",
+    "name": Object {
+      "first": "Rick",
+    },
+    "phone": "07-5547-3385",
+  },
+]
+`;
