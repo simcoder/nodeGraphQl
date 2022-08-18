@@ -1,12 +1,4 @@
 
-# Ally(Strata) GraphQL Assignment
-
-Hello,
-
-Thank you for taking the time to complete the Ally GraphQL assignment. Please only spend
-a maximum of 1 hour on this assignment.
-
-
 
 ## Summary
 
@@ -52,6 +44,3 @@ All of your changes should happen under the "modules" folder. The utils, index f
 
 There are no library restrictions on how this project is solved. If you want to use other libraries please feel free to. 
 
-## Questions
-
-Please reach out to me at john.kranz@ally.com if you have any questions
